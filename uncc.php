@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sohan Birajdar</title>
+</head>
+<body>
+    <h1>Sohan Birajdar</h1>
+    <h2>801298151</h2>
+    <h3>Assignment 02</h3>
+    <h4>ITCS 5166 - NBAD</h4>
+    <h1><?php echo 9 * 13 ?></h1>
+</body>
+</html>
